@@ -1,2 +1,0 @@
-This is checking for pull request
-This is second pull request for checking
