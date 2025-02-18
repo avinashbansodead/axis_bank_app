@@ -1,8 +1,1 @@
 This is first.
-This is fourht
-<<<<<<< Updated upstream
-Sisxt
-=======
-This is third.
-This is fiftth
->>>>>>> Stashed changes
